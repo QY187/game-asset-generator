@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Build metadata
+*.egg-info/
+*.egg-info
+
+# Python
+__pycache__/
+*.pyc
+
+# Packaging
+build/
+dist/
+
+# Editor
+.vscode/
